@@ -1,1 +1,1 @@
-### This is my first README and my first repo HAVE FUN!!!
+### This is my first Directory and my first repo HAVE FUN!!!
